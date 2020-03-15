@@ -1,0 +1,4 @@
+[source_a]
+SELECT * FROM PROFILES
+[source_b]
+B:\Github\Faker\\demo.txt

@@ -1,0 +1,3 @@
+tests = .\sampleTests
+source = source_a,oracle,imeserver/orcl,SHAABAN,SHAABAN
+source = source_b,file_delimited,'|'
